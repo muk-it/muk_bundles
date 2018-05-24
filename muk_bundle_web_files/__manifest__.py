@@ -40,6 +40,8 @@
     "version": '11.0.1.0.0',   
     "category": 'Extra Tools',   
     "license": "OPL-1",
+    "price": 5.00,
+    "currency": 'EUR',
     "website": "https://www.mukit.at",
     "live_test_url": "https://demo.mukit.at/web/login",
     "author": "MuK IT",
