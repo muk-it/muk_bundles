@@ -50,9 +50,11 @@
     ],
     "depends": [
         "muk_dms",
+        "muk_dms_archive",
         "muk_dms_access",
         "muk_dms_attachment",
         "muk_dms_attachment_rules",
+        "muk_dms_attachment_automation",
         "muk_dms_attachment_wizard",
         "muk_dms_field",
         "muk_dms_file",
