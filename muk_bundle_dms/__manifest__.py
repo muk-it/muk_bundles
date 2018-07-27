@@ -56,11 +56,13 @@
         "muk_dms_attachment_rules",
         "muk_dms_attachment_automation",
         "muk_dms_attachment_wizard",
+        "muk_dms_export",
         "muk_dms_field",
         "muk_dms_file",
         "muk_dms_finder",
         "muk_dms_lobject",
         "muk_dms_share",
+        "muk_dms_thumbnails",
         "muk_dms_widget",
     ],
     "data": [
