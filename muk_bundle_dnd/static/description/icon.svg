@@ -1,0 +1,84 @@
+<?xml version="1.0" standalone="no"?><!-- Generator: Gravit.io -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	style="isolation:isolate" viewBox="0 0 250 250" width="250" height="250">
+	<defs>
+		<clipPath id="_clipPath_nyqU3FKvh161rSf8PvgbuTnpPb1EbNds">
+			<rect width="250" height="250" />
+		</clipPath>
+	</defs>
+	<g clip-path="url(#_clipPath_nyqU3FKvh161rSf8PvgbuTnpPb1EbNds)">
+		<rect width="250" height="250" style="fill:rgb(0,0,0)"
+			fill-opacity="0" />
+		<defs>
+			<filter id="CxfoznIpvf8eBAEN1OD0ayKibHpU0Opc" x="-200%" y="-200%"
+				width="400%" height="400%" filterUnits="objectBoundingBox"
+				color-interpolation-filters="sRGB">
+				<feOffset xmlns="http://www.w3.org/2000/svg" in="SourceGraphic"
+					dx="0" dy="3" />
+				<feGaussianBlur xmlns="http://www.w3.org/2000/svg"
+					stdDeviation="2.146804531419514" result="pf_100_offsetBlur" />
+				<feComposite xmlns="http://www.w3.org/2000/svg" in="SourceGraphic"
+					in2="pf_100_offsetBlur" result="pf_100_inverse" operator="out" />
+				<feFlood xmlns="http://www.w3.org/2000/svg" flood-color="#FFFFFF"
+					flood-opacity="0.5" result="pf_100_color" />
+				<feComposite xmlns="http://www.w3.org/2000/svg" in="pf_100_color"
+					in2="pf_100_inverse" operator="in" result="pf_100_shadow" />
+				<feComposite xmlns="http://www.w3.org/2000/svg" in="pf_100_shadow"
+					in2="SourceGraphic" operator="over"
+					result="_out_om8oXMV5qmz8cWjpmqDpPZZefoakFLHk" />
+				<feOffset xmlns="http://www.w3.org/2000/svg" in="_out_om8oXMV5qmz8cWjpmqDpPZZefoakFLHk"
+					dx="0" dy="-3" />
+				<feGaussianBlur xmlns="http://www.w3.org/2000/svg"
+					stdDeviation="2.146804531419514" result="pf_101_offsetBlur" />
+				<feComposite xmlns="http://www.w3.org/2000/svg"
+					in="_out_om8oXMV5qmz8cWjpmqDpPZZefoakFLHk" in2="pf_101_offsetBlur"
+					result="pf_101_inverse" operator="out" />
+				<feFlood xmlns="http://www.w3.org/2000/svg" flood-color="#000000"
+					flood-opacity="0.5" result="pf_101_color" />
+				<feComposite xmlns="http://www.w3.org/2000/svg" in="pf_101_color"
+					in2="pf_101_inverse" operator="in" result="pf_101_shadow" />
+				<feComposite xmlns="http://www.w3.org/2000/svg" in="pf_101_shadow"
+					in2="_out_om8oXMV5qmz8cWjpmqDpPZZefoakFLHk" operator="over"
+					result="_out_MCijsmcrKg9K5lrJXgebuuH7uShrirE8" />
+				<feMerge>
+					<feMergeNode in="_out_MCijsmcrKg9K5lrJXgebuuH7uShrirE8" />
+				</feMerge>
+			</filter>
+		</defs>
+		<g filter="url(#CxfoznIpvf8eBAEN1OD0ayKibHpU0Opc)">
+			<path
+				d="M 15 0 L 235 0 C 243.279 0 250 6.721 250 15 L 250 235 C 250 243.279 243.279 250 235 250 L 15 250 C 6.721 250 0 243.279 0 235 L 0 15 C 0 6.721 6.721 0 15 0 Z"
+				style="stroke:none;fill:#747474;stroke-miterlimit:10;" />
+			<clipPath id="_clipPath_1dnjeh2PcCjGtbgiNdy3qVgEYwn2P0GN">
+				<path
+					d="M 15 0 L 235 0 C 243.279 0 250 6.721 250 15 L 250 235 C 250 243.279 243.279 250 235 250 L 15 250 C 6.721 250 0 243.279 0 235 L 0 15 C 0 6.721 6.721 0 15 0 Z"
+					style="stroke:none;fill:#747474;stroke-miterlimit:10;" />
+			</clipPath>
+			<g clip-path="url(#_clipPath_1dnjeh2PcCjGtbgiNdy3qVgEYwn2P0GN)">
+				<path d=" M 0 250 L 0 0 L 250 0 L 0 250" fill="rgb(36,55,66)" />
+				<path d=" M 250 0 L 250 250 L 0 250 L 250 0" fill="rgb(93,141,168)" />
+			</g>
+		</g>
+		<defs>
+			<filter id="E4SGaFVF8cPzSamkrIFs051fuoqqoZMD" x="-200%" y="-200%"
+				width="400%" height="400%" filterUnits="objectBoundingBox"
+				color-interpolation-filters="sRGB">
+				<feGaussianBlur xmlns="http://www.w3.org/2000/svg"
+					in="SourceGraphic" stdDeviation="2.146804531419514" />
+				<feOffset xmlns="http://www.w3.org/2000/svg" dx="-5" dy="5"
+					result="pf_100_offsetBlur" />
+				<feFlood xmlns="http://www.w3.org/2000/svg" flood-color="#000000"
+					flood-opacity="0.65" />
+				<feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur"
+					operator="in" result="pf_100_dropShadow" />
+				<feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic"
+					in2="pf_100_dropShadow" mode="normal" />
+			</filter>
+		</defs>
+		<g filter="url(#E4SGaFVF8cPzSamkrIFs051fuoqqoZMD)">
+			<path
+				d=" M 202.871 123.058 L 170.531 110.939 L 170.531 74.615 C 170.531 69.593 167.417 65.107 162.697 63.333 L 129.218 50.778 C 126.507 49.741 123.493 49.741 120.748 50.778 L 87.27 63.333 C 82.549 65.107 79.436 69.593 79.436 74.615 L 79.436 110.939 L 47.096 123.058 C 42.409 124.833 39.295 129.319 39.295 134.34 L 39.295 171.2 C 39.295 175.753 41.873 179.938 45.957 181.98 L 79.436 198.719 C 82.817 200.427 86.835 200.427 90.216 198.719 L 125 181.311 L 159.784 198.719 C 163.165 200.427 167.183 200.427 170.564 198.719 L 204.043 181.98 C 208.127 179.938 210.705 175.753 210.705 171.2 L 210.705 134.34 C 210.705 129.319 207.591 124.833 202.871 123.058 L 202.871 123.058 Z  M 159.148 111.207 L 130.691 121.887 L 130.691 99.054 L 159.148 86.667 L 159.148 111.207 Z  M 90.852 74.146 L 125 61.358 L 159.148 74.146 L 159.148 74.347 L 125 88.207 L 90.852 74.347 L 90.852 74.146 Z  M 118.974 171.602 L 90.517 185.83 L 90.517 159.349 L 118.974 146.359 L 118.974 171.602 Z  M 118.974 134.106 L 84.826 147.966 L 50.678 134.106 L 50.678 133.905 L 84.826 121.117 L 118.974 133.905 L 118.974 134.106 Z  M 199.322 171.602 L 170.865 185.83 L 170.865 159.349 L 199.322 146.359 L 199.322 171.602 Z  M 199.322 134.106 L 165.174 147.966 L 131.026 134.106 L 131.026 133.905 L 165.174 121.117 L 199.322 133.905 L 199.322 134.106 Z "
+				fill="rgb(255,255,255)" />
+		</g>
+	</g>
+</svg>
