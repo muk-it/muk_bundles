@@ -37,7 +37,7 @@
 {
     "name": "MuK Interface Bundle",
     "summary": """Odoo Server Interfaces""",
-    "version": '11.0.1.0.0',   
+    "version": '12.0.1.0.0',   
     'category': 'Extra Tools',
     "price": 5.00,
     'currency': 'EUR',
