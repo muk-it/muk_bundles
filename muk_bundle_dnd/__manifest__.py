@@ -37,7 +37,7 @@
 {
     "name": "MuK Drag and Drop Bundle",
     "summary": """Drag and Drop Support""",
-    "version": '11.0.1.0.0',   
+    "version": '12.0.1.0.0',   
     'category': 'Extra Tools',
     "price": 5.00,
     'currency': 'EUR',
