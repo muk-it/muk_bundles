@@ -63,6 +63,7 @@
         "muk_dms_lobject",
 #        "muk_dms_share",
 #       "muk_dms_thumbnails",
+        "muk_dms_preview",
         "muk_dms_version",
         "muk_dms_widget",
     ],
