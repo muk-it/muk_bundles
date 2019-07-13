@@ -57,6 +57,7 @@
         'muk_web_theme',
         'muk_web_theme_branding',
         'muk_web_theme_website',
+        'muk_web_theme_mobile',
     ],
     "data": [
     ],
