@@ -52,7 +52,6 @@
     "depends": [
         "muk_quality_docs",
         "muk_quality_docs_dms",
-        "muk_quality_docs_dms_converter",
         "muk_quality_docs_esc",
         "muk_quality_docs_mandatory",
         "muk_quality_docs_star",
